@@ -1,5 +1,17 @@
 [
 	{
-		"id": "guide"
+		"id": "cybersecurity"
+	},
+	{
+		"id": "cooking/baking"
+	},
+	{
+		"id": "engineering"
+	},
+	{
+		"id": "homelab"
+	},
+	{
+		"id": "parenting"
 	}
 ]
