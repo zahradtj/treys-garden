@@ -36,9 +36,6 @@ const config = defineConfig({
 			},
 		}),
 	],
-	adapter: node({
-		mode: "standalone",
-	}),
 });
 
 export default config;
