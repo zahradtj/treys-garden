@@ -21,20 +21,20 @@
 	gap: 1rem;
 }
 
-.blog-tag {
+.notes-tag {
 	padding: 0.25rem 0.5rem;
 	background: #252525;
 	color: white;
 	text-decoration: none;
 }
 
-.blog-tag:hover,
-.blog-tag:focus-visible {
+.notes-tag:hover,
+.notes-tag:focus-visible {
 	background: #353535;
 	color: white;
 	text-decoration: none;
 }
 
-.blog-tag.active {
+.notes-tag.active {
 	background: var(--primary);
 }

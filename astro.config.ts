@@ -26,9 +26,9 @@ const config = defineConfig({
 					title: "Trey's Garden",
 					description: "A site full of Trey's hobbies and thoughts.",
 				},
-				blog: {
-					title: "Blog",
-					description: "News and guides.",
+				notes: {
+					title: "Notes",
+					description: "Articles, Guides, Ideas, and Learnings.",
 				},
 				projects: {
 					title: "Projects",

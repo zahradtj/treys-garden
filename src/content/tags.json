@@ -13,5 +13,19 @@
 	},
 	{
 		"id": "parenting"
+	},
+
+
+	{
+		"id": "article"
+	},
+	{
+		"id": "guide"
+	},
+	{
+		"id": "idea"
+	},
+	{
+		"id": "learning"
 	}
 ]

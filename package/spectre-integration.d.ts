@@ -15,9 +15,9 @@ interface OpenGraph {
 	 */
 	home: OpenGraphInfo;
 	/**
-	 * Data for the blog page.
+	 * Data for the notes page.
 	 */
-	blog: OpenGraphInfo;
+	notes: OpenGraphInfo;
 	/**
 	 * Data for the projects page.
 	 */
